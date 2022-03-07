@@ -164,6 +164,21 @@ body {
    
 }
 
+.bottom_div{
+    background-color: #6f6635;
+    height: 70px;
+    width: 65px;
+    top: 50%;
+    left: 50%;
+    margin-top: 175px;
+    margin-left:445px;
+    position: fixed;
+    z-index: -10;
+    transform: rotate(45deg);
+    border-radius: 2px;
+   =
+}
+
 /* ul {
     list-style-type:none;
     margin: 0;
