@@ -73,10 +73,11 @@ body {
     top: 50%;
     left: 50%;
     margin-top: -280px;
-    margin-left: -430px;
+    margin-left: -420px;
     position: fixed;
     z-index: -10;
     border-radius: 2px;
+    transform: skewX(-5deg)
 }
 
 
@@ -169,15 +170,15 @@ body {
 
 .bottom_div{
     background-color: #6f6635;
-    height: 70px;
+    height: 75px;
     width: 65px;
     top: 50%;
     left: 50%;
-    margin-top: 175px;
+    margin-top: 170px;
     margin-left:445px;
     position: fixed;
     z-index: -10;
-    transform: rotate(45deg);
+    transform: rotate(30deg);
      border-radius: 2px;
 }
 
