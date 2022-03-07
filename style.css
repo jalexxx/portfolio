@@ -30,6 +30,7 @@ body {
     margin-top: -10px;
     margin-left: 15px;
     border-radius: 10px;
+    
 
 
 } 
@@ -93,7 +94,7 @@ body {
    
 }
 
-.red_fl{
+ .red_fl{
     background-color: rgb(238, 39, 39);
     width: 110px;
    height: 70px;
@@ -103,7 +104,11 @@ body {
    margin-left:-100px;
    position: fixed;
    border-radius: 5px;
-}
+   
+   
+} 
+
+
 
 .red_paper{
     background-color: rgb(211, 35, 35);
@@ -112,10 +117,11 @@ body {
     top: 50%;
     left: 50%;
     margin-top: -250px;
-    margin-left: -475px;
+    margin-left: -470px;
     position: fixed;
     z-index: -10;
     border-radius: 2px;
+    transform: skewX(3deg)
 }
 
 .red_fl:hover{
@@ -155,6 +161,20 @@ body {
     z-index: -10;
     border-radius: 2px;
 }
+
+/* .green_paper{
+    background-color: rgb(3, 105, 3);
+    height: 500px;
+    width: 950px;
+    top: 50%;
+    left: 50%;
+    margin-top: -250px;
+    margin-left: -480px;
+    position: fixed;
+    z-index: -10;
+    border-radius: 2px;
+    transform: skewY(2deg)
+} */
 
 .green_fl:hover{
     margin-top: -310px;
