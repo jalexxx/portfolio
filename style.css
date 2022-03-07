@@ -88,7 +88,7 @@ body {
 }
 
 .red_fl{
-    background-color: red;
+    background-color: rgb(238, 39, 39);
     width: 110px;
    height: 70px;
    top: 50%;
@@ -108,6 +108,18 @@ body {
     margin-left: -475px;
     position: fixed;
     z-index: -10;
+}
+
+.red_fl:hover{
+    margin-top: -310px;
+    background-color: rgb(255, 45, 45);
+    
+}
+
+.red_paper:hover{
+    margin-top: -260px;
+    background-color: rgb(230, 40, 40);
+   
 }
 
 /* ul {
