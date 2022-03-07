@@ -74,6 +74,10 @@ body {
     margin-top: -40px;
 }
 
+.purple_paper:hover{
+    margin-top: -255px;
+}
+
 
 /* ul {
     list-style-type:none;
