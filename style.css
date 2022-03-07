@@ -51,12 +51,12 @@ body {
 
 
 .purple_fl{
-    background-color: green;
-    width: 100px;
-   height: 200px;
+    background-color: purple;
+    width: 110px;
+   height: 70px;
    top: 50%;
-   margin-top: -100px;
-   margin-left: 50px;
+   margin-top: -10px;
+   margin-left: 15px;
 }
 
 
