@@ -60,6 +60,7 @@ body {
    margin-left:-280px;
    position: fixed;
    z-index: -10;
+   border-radius: 5px;
 }
 
 .purple_paper{
@@ -72,6 +73,7 @@ body {
     margin-left: -430px;
     position: fixed;
     z-index: -10;
+    border-radius: 2px;
 }
 
 
@@ -96,6 +98,7 @@ body {
    margin-top: -295px;
    margin-left:-100px;
    position: fixed;
+   border-radius: 5px;
 }
 
 .red_paper{
@@ -108,6 +111,7 @@ body {
     margin-left: -475px;
     position: fixed;
     z-index: -10;
+    border-radius: 2px;
 }
 
 .red_fl:hover{
@@ -119,6 +123,44 @@ body {
 .red_paper:hover{
     margin-top: -260px;
     background-color: rgb(230, 40, 40);
+   
+}
+
+
+.green_fl{
+    background-color: green;
+    width: 110px;
+   height: 70px;
+   top: 50%;
+   left: 50%;
+   margin-top: -295px;
+   margin-left:200px;
+   position: fixed;
+   border-radius: 5px;
+}
+
+.green_paper{
+    background-color: rgb(3, 105, 3);
+    height: 500px;
+    width: 950px;
+    top: 50%;
+    left: 50%;
+    margin-top: -250px;
+    margin-left: -480px;
+    position: fixed;
+    z-index: -10;
+    border-radius: 2px;
+}
+
+.green_fl:hover{
+    margin-top: -310px;
+    background-color: rgb(4, 155, 4);
+    
+}
+
+.green_paper:hover{
+    margin-top: -260px;
+    background-color: rgb(5, 127, 5);;
    
 }
 
@@ -166,7 +208,7 @@ div.first {
 }
 
 div.second {
-    border: 5px outset red;
+    border: 5px outset green;
     border-style:double;
     margin: 50px;
 }
