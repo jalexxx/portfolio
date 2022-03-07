@@ -49,11 +49,15 @@ body {
     width: 950px;
 }
 
- #fl {
-   background-color: red;
-   width: 100px;
-   height: 200px;;
-    }
+
+.purple_fl{
+    background-color: green;
+    width: 100px;
+   height: 200px;
+   top: 50%;
+   margin-top: -100px;
+   margin-left: 50px;
+}
 
 
 /* ul {
