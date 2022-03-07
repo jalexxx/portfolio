@@ -56,7 +56,7 @@ body {
    height: 70px;
    top: 50%;
    left: 50%;
-   margin-top: -310px;
+   margin-top: -320px;
    margin-left:-280px;
    position: fixed;
    z-index: -10;
@@ -75,7 +75,7 @@ body {
 }
 
 .purple_fl:hover{
-    margin-top: -320px;
+    margin-top: -340px;
     background-color: rgb(149, 2, 149);
 }
 
