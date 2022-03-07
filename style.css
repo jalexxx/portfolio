@@ -72,10 +72,13 @@ body {
 
 .purple_fl:hover{
     margin-top: -40px;
+    background-color: rgb(149, 2, 149);
 }
 
 .purple_paper:hover{
     margin-top: -255px;
+    background-color: purple;
+   
 }
 
 
