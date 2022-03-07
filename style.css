@@ -10,8 +10,8 @@ body {
     left: 50%;
     top:50%;
     transform: translate(-50%, -50%);
-    width: 1000px;
-    height: 500px;
+    width: 1190px;
+    height: 600px;
     border-radius: 5px;
     margin-top: 10px;
 }
@@ -44,14 +44,10 @@ body {
     border-radius: 10px;
 } 
 
-/* .files {
-background-color: grey;
-width: 1250px;
-height: 700px;
-left: 50%;
-top:50%;
-margin-left: 140px;
-} */
+#files{
+    height:500px;
+    width: 1000px;
+}
 
  #fl {
    background-color: red;
