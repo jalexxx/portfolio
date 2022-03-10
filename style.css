@@ -74,11 +74,12 @@ body {
     top: 50%;
     left: 50%;
     margin-top: -280px;
-    margin-left: -420px;
+    margin-left: -408px;
     position: fixed;
     z-index: -10;
     border-radius: 2px;
-    transform: skewX(-5deg)
+    transform: skewX(-7deg)
+    
 }
 
 
@@ -93,6 +94,8 @@ body {
     background-color: purple;
    
 }
+
+
 
  .red_fl{
     background-color: rgb(238, 39, 39);
@@ -121,7 +124,7 @@ body {
     position: fixed;
     z-index: -10;
     border-radius: 2px;
-    transform: skewX(3deg)
+    transform: skewX(-3deg)
 }
 
 .red_fl:hover{
@@ -201,6 +204,25 @@ body {
     transform: rotate(30deg);
      border-radius: 2px;
 }
+
+.back_file {
+    background-color:#9f9c6c;
+    position:fixed;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    height: 75px;
+    width: 65px;
+    margin-top: -305px;
+    margin-left:-385px;
+    position: fixed;
+    z-index: -10;
+    transform: skewX(-10deg);
+    border-radius: 5px;
+    
+
+}
+
 
 /* ul {
     list-style-type:none;
