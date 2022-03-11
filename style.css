@@ -1,9 +1,9 @@
 body {
-    background-color: pink;
-
-     
+    background-color: pink;   
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
-
+/* 
 .first_file {
     background-color:#DEDB9B;
     position:fixed;
@@ -164,20 +164,6 @@ body {
     border-radius: 2px;
 }
 
-/* .green_paper{
-    background-color: rgb(3, 105, 3);
-    height: 500px;
-    width: 950px;
-    top: 50%;
-    left: 50%;
-    margin-top: -250px;
-    margin-left: -480px;
-    position: fixed;
-    z-index: -10;
-    border-radius: 2px;
-    transform: skewY(2deg)
-} */
-
 .green_fl:hover{
     margin-top: -310px;
     background-color: rgb(4, 155, 4);
@@ -226,4 +212,12 @@ h1{
    left: 50%;
    margin-left: -300px;
    font-size: 70px;
+} */
+
+#door-wall{
+    background-color: purple;
+    width: 1800px;
+    height: 664px;
+    margin-top: -8px;
+    margin-left: -8px;
 }
