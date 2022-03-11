@@ -19,6 +19,7 @@ body {
     
 }
 
+
  .second_file {
     background-color: #A99B54;
     width: 1150px;
@@ -30,8 +31,6 @@ body {
     margin-top: -10px;
     margin-left: 15px;
     border-radius: 10px;
-    
-
 
 } 
 
@@ -206,79 +205,25 @@ body {
 }
 
 .back_file {
-    background-color:#9f9c6c;
+    background-color:#655e32;
     position:fixed;
     left: 50%;
     top:50%;
     transform: translate(-50%, -50%);
     height: 75px;
     width: 65px;
-    margin-top: -305px;
-    margin-left:-385px;
+    margin-top: -300px;
+    margin-left:-386px;
     position: fixed;
     z-index: -10;
     transform: skewX(-10deg);
     border-radius: 5px;
-    
-
 }
 
-
-/* ul {
-    list-style-type:none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: cadetblue;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  li {
-    float: left;
-    background-color: darkmagenta;
-  }
-  
-
-  li a {
-    display: block;
-    margin: 15px;
-    padding: 8px;
-    outline-style:dashed;
-    outline-color: burlywood;
-    background-color: crimson;
-  } */
-
-
-/* h1 {
-    font-size:20px;
-    font-family: monospace;
+h1{
+    position:fixed;
+   top: 50%; 
+   left: 50%;
+   margin-left: -300px;
+   font-size: 70px;
 }
-
-p {
-    margin: 100px;
-   
-}
-
-div.first {
-    border: 5px outset greenyellow;
-    border-style: dotted;
-    margin: 50px;
-}
-
-div.second {
-    border: 5px outset green;
-    border-style:double;
-    margin: 50px;
-}
-
-div.third {
-    border: 5px outset blue;
-    border-style:ridge;
-    margin: 50px;
-}
-
-div.Gallery {
-    margin-left: 200px;
-} */
